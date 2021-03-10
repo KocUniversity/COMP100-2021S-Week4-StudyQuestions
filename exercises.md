@@ -1,4 +1,4 @@
-## Plesder, do not forget to write a docstring for each function!
+## Please, do not forget to write a docstring for each function!
 
 ## Q1: Making Chocolate :)
 
